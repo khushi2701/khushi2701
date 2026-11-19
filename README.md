@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Khushi  👋
 
-<!--
-**khushi2701/khushi2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Data Analytics, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+- Python (Basics)
+- SQL & MySQL (Basics)
+- HTML, CSS, JavaScript
+- Power BI
+- Data Analysis
+
+### Currently Learning
+- Machine Learning
+- React
+- Data Visualization
+
+### Goals
+Building practical projects, improving my technical skills, and exploring opportunities in software development and data analytics.
+
+📫 GitHub: https://github.com/khushi2701
